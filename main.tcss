@@ -1,0 +1,13 @@
+VerticalScroll {
+    height: 1fr;
+}
+
+Main {
+    height: 1fr;
+    align: center middle;
+}
+
+#input {
+    width: 90;
+}
+
